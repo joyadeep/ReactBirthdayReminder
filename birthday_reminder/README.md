@@ -1,3 +1,14 @@
+# React Mini project 1
+
+## Tech used
+
+### React
+### use-state Hook
+### vanilla CSS
+
+## About this project
+It just fetches data from .js file inside api folder and react serves those data to user as in output.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
